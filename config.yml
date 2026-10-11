@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
-logo: /images/headshot.circle.png
+logo: /images/myprofile.img
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [VANDITA SOOD]
