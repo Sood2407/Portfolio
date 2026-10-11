@@ -1,7 +1,7 @@
 # Portfolio.github
 
 
-# Hi there, I'm [Vandita Sood] 👋
+# Hi there, I'm Vandita Sood👋
 
 I am an aspiring Biotechnologist currently pursuing my **B.Tech in Biotechnology (First Year)** at **[Lovely Professional University (LPU), Jalandhar](https://lpu.in "LPU Official Site")**. I am deeply passionate about utilizing engineering principles to solve complex biological challenges, with a primary interest in driving advancements within the **medical field and healthcare industry**.
 
@@ -40,7 +40,7 @@ As a first-year student, I am actively building my skillset across these core me
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [www.linkedin.com/in/vandita-sood-807085332]
-- **Email:** [vanditasood007@gmail.com]
+- **LinkedIn:** www.linkedin.com/in/vandita-sood-807085332
+- **Email:** vanditasood007@gmail.com
 
 *“Bridging engineering and biology to innovate for the future of medicine.”*
