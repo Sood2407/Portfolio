@@ -40,7 +40,7 @@ As a first-year student, I am actively building my skillset across these core me
 ---
 
 ## 🤝 Connect with Me
-- **Link:** https://sood2407.github.io/Portfolio.github/
+- **Link:** https://sood2407.github.io/Portfolio/
 - **LinkedIn:** www.linkedin.com/in/vandita-sood-807085332
 - **Email:** vanditasood007@gmail.com
 
