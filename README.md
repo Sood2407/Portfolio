@@ -1,4 +1,4 @@
-# Portfolio.github
+# Portfolio
 
 
 # Hi there, I'm Vandita Sood👋
@@ -18,7 +18,7 @@ I am an aspiring Biotechnologist currently pursuing my **B.Tech in Biotechnology
 ## 📑 Ongoing Research & Projects
 
 ### 🔬 Research Paper: Tissue Engineering Principles in Cultured Meat Production
-**Role:** **Author / Researcher**
+**Role:** **Researcher**
 I am currently authoring a comprehensive research paper exploring the scalable production of cultured meat. I approach this topic through a **Biomedical engineering lens**, using it as a case study to master the core principles of **mammalian cell culture** and **regenerative medicine**.
 - **Medical & Engineering Focus:** Analyzing the biomaterial scaffolds required for 3D muscle tissue alignment, optimizing serum-free media for safe cell proliferation, and studying bioreactor dynamics.
 - **Translational Goal:** To master the cellular mechanisms and scaling techniques that bridge the gap between advanced cellular agriculture and clinical tissue engineering applications (such as artificial organ development and cell therapies).
@@ -40,6 +40,7 @@ As a first-year student, I am actively building my skillset across these core me
 ---
 
 ## 🤝 Connect with Me
+- **Link:** https://sood2407.github.io/Portfolio.github/
 - **LinkedIn:** www.linkedin.com/in/vandita-sood-807085332
 - **Email:** vanditasood007@gmail.com
 
