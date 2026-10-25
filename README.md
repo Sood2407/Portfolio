@@ -3,7 +3,7 @@
 
 # Hi there, I'm Vandita Sood👋
 
-I am an aspiring Biotechnologist currently pursuing my **B.Tech in Biotechnology at **[Lovely Professional University (LPU), Jalandhar](https://lpu.in "LPU Official Site")**. I am deeply passionate about utilizing engineering principles to solve complex biological challenges, with a primary interest in driving advancements within the **medical field and healthcare industry**.
+I am an aspiring Biotechnologist currently pursuing my **B.Tech in Biotechnology** at **[Lovely Professional University (LPU), Jalandhar](https://lpu.in "LPU Official Site")**. I am deeply passionate about utilizing engineering principles to solve complex biological challenges, with a primary interest in driving advancements within the **medical field and healthcare industry**.
 
 ---
 
